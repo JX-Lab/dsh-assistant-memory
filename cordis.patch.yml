@@ -1,0 +1,3 @@
+- insert:
+    - id: assistant-memory
+      name: dsh-assistant-memory

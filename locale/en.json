@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Assistant Memory",
+    "description": "Remembers preferences, project conventions and corrections across sessions; local JSONL storage you can read, edit and delete."
+  }
+}

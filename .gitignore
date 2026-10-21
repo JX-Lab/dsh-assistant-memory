@@ -1,0 +1,5 @@
+# 本地产物，永不提交
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
