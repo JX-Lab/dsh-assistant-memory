@@ -10,7 +10,7 @@
 dsh plugin --profile web add github:JX-Lab/dsh-assistant-memory
 ```
 
-装完重启 DSH。插件列表里会出现「**工作助手记忆**」，会话里多一个 `memory` 工具。
+装完重启 DSH。插件列表里会出现 **dsh-assistant-memory**，会话里多一个 `memory` 工具。
 
 > 如果用的是桌面版，也可以打开 **设置 → 插件 → 安装**，填入这个包的目录。
 

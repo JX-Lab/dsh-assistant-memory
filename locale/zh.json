@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "工作助手记忆",
+    "title": "dsh-assistant-memory",
     "description": "跨会话记住偏好、项目约定和纠正；本地 JSONL 存储，可读、可改、可删。"
   }
 }
